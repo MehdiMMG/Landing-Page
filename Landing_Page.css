@@ -1,0 +1,147 @@
+body{
+    font-family: 'Mulish', sans-serif;
+    background-color: rgb(0, 0, 0) ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    border: solid blue 10px;
+    border-radius: 5px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333 ;
+    position: sticky;
+}
+li{
+   float: right;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 5px 5px ;
+}
+li a:hover{
+    background-color: gray;
+    transition: 1s;
+}
+#header_logo{
+    float: left;
+}
+.first_heading{
+    margin-top: 60px;
+    font-size: 3ch;
+    color: aliceblue;
+}
+.Old_cars{
+    margin-left: 30%;
+    margin-top: 8%;
+}
+#Classic_Car{
+    margin-left: 8%;
+    border-radius: 50px;
+}
+#History{
+    color: white;
+}
+.Legacy{
+    color: gray;
+    font-size: 1em;
+}
+button {
+    background-color: black;
+    padding: 15px;
+    border: 8px ;
+    border: solid blue;
+    width: 25%;
+    text-decoration: none;
+}
+button a{
+    color: #fff;
+    text-decoration: none;
+    
+}
+#History_button{
+    text-decoration: none;
+    margin-left: 37%;
+    color: #fff;
+    border-radius: 10px;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}    
+p{
+    color: gray;
+    text-align: center;
+}
+#Jaguar{
+    border-radius: 100px;
+    margin-left: 35%;
+}
+#Know_More{
+    border-radius: 10px;
+    margin-left: 37%;
+    margin-top: 20px
+}
+#Volkswagen_Vanagon_Westfalia{
+    border-radius: 100px;
+    margin-left: 35%;
+}
+#More_Info{
+    border-radius: 10px;
+    margin-left: 37%;
+    margin-top: 20px
+}
+.Future{
+    text-align: center;
+}
+.About{
+    text-align: center;
+    font-size: 60px;
+    border: solid 10px blue;
+}
+#Brand_Lineage{
+    margin-left: 47%;
+}
+#Parent_Company{
+    margin-left: 45%;
+}
+#India_Opreations{
+    margin-left: 46%;
+}
+#Road_Safety{
+    margin-left: 46%;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    margin-top: 5%;
+}
+.Sign_Up{
+    text-align: center;
+    color: #fff;
+}
+#Email{
+    margin-bottom: 20px;
+    padding: 10px;
+}    
+#Submit_button{
+    padding: 12px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border : solid rgb(0, 81, 255);
+    border-radius: 5px;
+    width: 20%;
+}
+table{
+    font-size: 0.8em;
+    border-spacing: 12px 0px;
+    padding: 10px;
+    margin-left: 20%;
+    color: white;
+}
